@@ -17,8 +17,9 @@
 Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 1. **Clona el repositorio:**
-   ```bash
-   git clone https://github.com/JulioRom/contact-manager-react
+```bash
+git clone https://github.com/JulioRom/contact-manager-react
+```
 
 2. Navega hasta el directorio del proyecto:
 ```bash
