@@ -3,6 +3,8 @@ import Home from "../pages/Home";
 import AgendaList from "../pages/AgendaList";
 import ContactList from "../pages/ContactList";
 import AddContact from "../pages/AddContact";
+import AddAgenda from "../pages/AddAgenda";
+
 
 function AppRoutes() {
   return (
@@ -11,6 +13,7 @@ function AppRoutes() {
       <Route path="/add-contact" element={<AddContact />} />
       <Route path="/agendas" element={<AgendaList />} />
       <Route path="/contacts" element={<ContactList />} />
+      <Route path="/add-agenda" element={<AddAgenda />} />
     </Routes>
   );
 }
